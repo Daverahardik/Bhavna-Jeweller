@@ -35,7 +35,7 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Outfit:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
     
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -105,18 +105,31 @@
     </section>
 
     <!-- Footer -->
-    <footer class="bg-dark text-white py-4 mt-auto">
+    <footer class="text-white py-5 mt-auto" style="background-color: #1a1a1a;">
         <div class="container">
-            <div class="row align-items-center justify-content-between">
-                <div class="col-md-4 text-center text-md-start mb-3 mb-md-0">
-                    <a href="index.html"><img src="data/logo/bhavna_jewellers_logo.png" alt="Bhavna Jeweller Logo" style="height: 75px; width: 120px;" class="mb-2"></a>
-                    <p class="text-white-50 small mb-0 mt-1">Elegance Refined.</p>
+            <div class="row align-items-center mb-4 g-4">
+                <div class="col-md-6 text-center text-md-start">
+                    <a href="index.html"><img src="data/logo/bhavna_jewellers_logo.png" alt="Bhavna Jeweller Logo" style="height: 75px; width: 120px;" class="mb-3"></a>
+                    <p class="text-white-50 small mb-0">Elegance Refined.</p>
                 </div>
                 
-                <div class="col-md-4 text-center text-md-end">
-                    <p class="mb-0"><i class="bi bi-whatsapp text-success me-2"></i>+91 9106770262</p>
-                    <p class="text-white-50 small mb-0 mt-1">&copy; <span id="year"></span> Bhavna Jeweller. All rights reserved.</p>
+                <div class="col-md-6 d-flex flex-column flex-md-row justify-content-center justify-content-md-end gap-4 gap-md-5 text-center text-md-start">
+                    <div>
+                        <h5 class="mb-3" style="font-family: 'Playfair Display', serif;">Contact</h5>
+                        <p class="mb-1 text-white-50"><i class="bi bi-telephone me-2"></i>+91 91067 70262</p>
+                    </div>
+                    <div>
+                        <h5 class="mb-3" style="font-family: 'Playfair Display', serif;">Follow Us</h5>
+                        <div class="d-flex justify-content-center justify-content-md-start gap-3">
+                            <a href="#" class="text-white-50 fs-4 hover-primary"><i class="bi bi-instagram"></i></a>
+                            <a href="#" class="text-white-50 fs-4 hover-primary"><i class="bi bi-facebook"></i></a>
+                        </div>
+                    </div>
                 </div>
+            </div>
+            
+            <div class="border-top border-secondary pt-4 text-center">
+                <p class="text-white-50 small mb-0">&copy; <span id="year"></span> Bhavna Jeweller. All rights reserved.</p>
             </div>
         </div>
     </footer>

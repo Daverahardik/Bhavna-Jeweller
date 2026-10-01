@@ -1,11 +1,11 @@
 :root {
-  --primary-color: #D4AF37; /* Rich Gold */
-  --primary-light: #F4E29F;
-  --secondary-color: #0A192F; /* Deep luxury navy */
-  --bg-color: #F8F9FA; 
-  --text-color: #2C3E50;
+  --primary-color: #C9885F; /* Rose Gold */
+  --primary-light: #EC805D;
+  --secondary-color: #2C2C2C; /* Deep charcoal */
+  --bg-color: #FDFDFB; /* Elegant cream */
+  --text-color: #2C2C2C;
   --card-bg: #FFFFFF;
-  --border-radius: 16px;
+  --border-radius: 12px;
   --transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
 }
 
@@ -14,13 +14,24 @@ html {
 }
 
 body {
-  font-family: 'Outfit', 'Inter', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   background-color: var(--bg-color);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', serif;
+}
+
+.hover-primary {
+  transition: var(--transition);
+}
+.hover-primary:hover {
+  color: var(--primary-color) !important;
 }
 
 /* Navbar */
