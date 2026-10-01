@@ -227,7 +227,7 @@ function renderProductDetails() {
     container.style.display = 'block';
     
     // Set Title & Meta
-    document.title = `${product.name} | Bhavna Jewellers`;
+    document.title = `${product.name} | Bhavna Jeweller`;
     
     // Populate Info
     document.getElementById('breadcrumb-title').textContent = product.name;
