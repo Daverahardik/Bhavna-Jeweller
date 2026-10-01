@@ -1,0 +1,87 @@
+{
+    "products": [
+        {
+            "id": "P001",
+            "name": "Gold Plated Necklace",
+            "slug": "gold-plated-necklace",
+            "price": 499,
+            "category": "Necklace",
+            "shortDescription": "Beautiful gold plated necklace.",
+            "description": "Elegant jewellery suitable for everyday and special occasions. Crafted with precision and attention to detail, this necklace will make you stand out.",
+            "details": {
+                "Material": "Jewellery",
+                "Color": "Gold",
+                "Type": "Necklace"
+            },
+            "images": [
+                "https://images.unsplash.com/photo-1599643478514-4a4204dc6195?w=600&q=80",
+                "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?w=600&q=80",
+                "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=600&q=80"
+            ],
+            "defaultImage": "https://images.unsplash.com/photo-1599643478514-4a4204dc6195?w=600&q=80",
+            "enabled": true,
+            "featured": true
+        },
+        {
+            "id": "P002",
+            "name": "Silver Diamond Ring",
+            "slug": "silver-diamond-ring",
+            "price": 899,
+            "category": "Ring",
+            "shortDescription": "Elegant silver ring with a beautiful diamond.",
+            "description": "Perfect for engagements or as a special gift. This ring features a stunning cubic zirconia stone set in high-quality silver.",
+            "details": {
+                "Material": "Silver",
+                "Color": "Silver",
+                "Type": "Ring"
+            },
+            "images": [
+                "https://images.unsplash.com/photo-1605100804763-247f67b2548e?w=600&q=80"
+            ],
+            "defaultImage": "https://images.unsplash.com/photo-1605100804763-247f67b2548e?w=600&q=80",
+            "enabled": true,
+            "featured": true
+        },
+        {
+            "id": "P003",
+            "name": "Pearl Drop Earrings",
+            "slug": "pearl-drop-earrings",
+            "price": 299,
+            "category": "Earrings",
+            "shortDescription": "Classic pearl drop earrings.",
+            "description": "Timeless beauty that pairs well with any outfit. These pearl drop earrings are lightweight and comfortable.",
+            "details": {
+                "Material": "Artificial Pearl",
+                "Color": "White",
+                "Type": "Earrings"
+            },
+            "images": [
+                "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&q=80"
+            ],
+            "defaultImage": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&q=80",
+            "enabled": true,
+            "featured": false
+        },
+        {
+            "id": "P004",
+            "name": "Rose Gold Bracelet",
+            "slug": "rose-gold-bracelet",
+            "price": 599,
+            "category": "Bracelet",
+            "shortDescription": "Stylish rose gold bracelet.",
+            "description": "A delicate and stylish rose gold bracelet, perfect for stacking or wearing alone.",
+            "details": {
+                "Material": "Rose Gold Plated",
+                "Color": "Rose Gold",
+                "Type": "Bracelet"
+            },
+            "images": [
+                "images/products/ian-talmacs-mkqraXkMPSE-unsplash (1).jpg",
+                "images/products/ruan-richard-rodrigues-O7YCeE_65TE-unsplash.jpg"
+            ],
+            "defaultImage": "images/products/ian-talmacs-mkqraXkMPSE-unsplash (1).jpg",
+            "enabled": true,
+            "featured": true
+        }
+    ]
+}
