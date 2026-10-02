@@ -1,26 +1,6 @@
 {
     "products": [
         {
-            "id": "P002",
-            "name": "Silver Diamond Ring",
-            "slug": "silver-diamond-ring",
-            "price": 899,
-            "category": "Ring",
-            "shortDescription": "Elegant silver ring with a beautiful diamond.",
-            "description": "Perfect for engagements or as a special gift. This ring features a stunning cubic zirconia stone set in high-quality silver.",
-            "details": {
-                "Material": "Silver",
-                "Color": "Silver",
-                "Type": "Ring"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1605100804763-247f67b2548e?w=600&q=80"
-            ],
-            "defaultImage": "https://images.unsplash.com/photo-1605100804763-247f67b2548e?w=600&q=80",
-            "enabled": true,
-            "featured": true
-        },
-        {
             "id": "P003",
             "name": "Pearl Drop Earrings",
             "slug": "pearl-drop-earrings",
