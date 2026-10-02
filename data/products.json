@@ -1,28 +1,6 @@
 {
     "products": [
         {
-            "id": "P001",
-            "name": "Gold Plated Necklace",
-            "slug": "gold-plated-necklace",
-            "price": 499,
-            "category": "Necklace",
-            "shortDescription": "Beautiful gold plated necklace.",
-            "description": "Elegant jewellery suitable for everyday and special occasions. Crafted with precision and attention to detail, this necklace will make you stand out.",
-            "details": {
-                "Material": "Jewellery",
-                "Color": "Gold",
-                "Type": "Necklace"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1599643478514-4a4204dc6195?w=600&q=80",
-                "https://images.unsplash.com/photo-1601121141461-9d6647bca1ed?w=600&q=80",
-                "https://images.unsplash.com/photo-1599643477877-530eb83abc8e?w=600&q=80"
-            ],
-            "defaultImage": "https://images.unsplash.com/photo-1599643478514-4a4204dc6195?w=600&q=80",
-            "enabled": true,
-            "featured": true
-        },
-        {
             "id": "P002",
             "name": "Silver Diamond Ring",
             "slug": "silver-diamond-ring",
