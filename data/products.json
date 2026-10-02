@@ -1,5 +1,23 @@
 {
-    "products": [],
+    "products": [
+        {
+            "id": "P001",
+            "name": "Gold Bracelet",
+            "slug": "gold-bracelet",
+            "price": 450,
+            "category": "Bracelet",
+            "shortDescription": "For diwali festival",
+            "description": "This is for specifically Diwali",
+            "details": {},
+            "enabled": true,
+            "images": [
+                "images/products/P001/ian-talmacs-mkqraXkMPSE-unsplash__1_.jpg",
+                "images/products/P001/ian-talmacs-mkqraXkMPSE-unsplash.jpg",
+                "images/products/P001/ruan-richard-rodrigues-O7YCeE_65TE-unsplash.jpg"
+            ],
+            "defaultImage": "images/products/P001/ian-talmacs-mkqraXkMPSE-unsplash__1_.jpg"
+        }
+    ],
     "config": {
         "whatsappNumber": "+917990302256"
     }
