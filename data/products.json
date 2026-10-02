@@ -1,26 +1,6 @@
 {
     "products": [
         {
-            "id": "P003",
-            "name": "Pearl Drop Earrings",
-            "slug": "pearl-drop-earrings",
-            "price": 299,
-            "category": "Earrings",
-            "shortDescription": "Classic pearl drop earrings.",
-            "description": "Timeless beauty that pairs well with any outfit. These pearl drop earrings are lightweight and comfortable.",
-            "details": {
-                "Material": "Artificial Pearl",
-                "Color": "White",
-                "Type": "Earrings"
-            },
-            "images": [
-                "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&q=80"
-            ],
-            "defaultImage": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&q=80",
-            "enabled": true,
-            "featured": false
-        },
-        {
             "id": "P004",
             "name": "Rose Gold Bracelet",
             "slug": "rose-gold-bracelet",
