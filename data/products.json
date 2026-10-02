@@ -1,27 +1,5 @@
 {
-    "products": [
-        {
-            "id": "P004",
-            "name": "Rose Gold Bracelet",
-            "slug": "rose-gold-bracelet",
-            "price": 599,
-            "category": "Bracelet",
-            "shortDescription": "Stylish rose gold bracelet.",
-            "description": "A delicate and stylish rose gold bracelet, perfect for stacking or wearing alone.",
-            "details": {
-                "Material": "Rose Gold Plated",
-                "Color": "Rose Gold",
-                "Type": "Bracelet"
-            },
-            "images": [
-                "images/products/ian-talmacs-mkqraXkMPSE-unsplash (1).jpg",
-                "images/products/ruan-richard-rodrigues-O7YCeE_65TE-unsplash.jpg"
-            ],
-            "defaultImage": "images/products/ian-talmacs-mkqraXkMPSE-unsplash (1).jpg",
-            "enabled": true,
-            "featured": true
-        }
-    ],
+    "products": [],
     "config": {
         "whatsappNumber": "+917990302256"
     }
