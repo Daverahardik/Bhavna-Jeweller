@@ -83,5 +83,8 @@
             "enabled": true,
             "featured": true
         }
-    ]
+    ],
+    "config": {
+        "whatsappNumber": "+917990302256"
+    }
 }
